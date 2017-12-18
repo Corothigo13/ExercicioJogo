@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Jogo1
+{
+    class Fuzil : IArma
+    {
+        public string usarArma()
+        {
+            return "Razada de Fuzil";
+        }
+    }
+}

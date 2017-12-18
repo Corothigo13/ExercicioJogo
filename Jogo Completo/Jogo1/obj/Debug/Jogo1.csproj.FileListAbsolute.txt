@@ -1,0 +1,78 @@
+C:\Users\1077334\Desktop\Jogo1\Jogo1\bin\Debug\Jogo1.exe.config
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\bin\Debug\Jogo1.exe.config
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\bin\Debug\Jogo1.exe
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\bin\Debug\Jogo1.pdb
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form1.resources
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.exe
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.pdb
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form2.resources
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form3.resources
+C:\Users\Thiago\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form4.resources
+C:\Users\1067510\Desktop\Jogo1\Jogo1\bin\Debug\Jogo1.exe.config
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.exe
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.pdb
+C:\Users\1067510\Desktop\Jogo1\Jogo1\bin\Debug\Jogo1.exe
+C:\Users\1067510\Desktop\Jogo1\Jogo1\bin\Debug\Jogo1.pdb
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form1.resources
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form2.resources
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form3.resources
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form4.resources
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Properties.Resources.resources
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.csproj.GenerateResource.Cache
+C:\Users\1067510\Desktop\Jogo1\Jogo1\obj\Debug\Jogo1.Form5.resources
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\bin\Debug\Jogo1.exe.config
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.exe
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.pdb
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\bin\Debug\Jogo1.exe
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\bin\Debug\Jogo1.pdb
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.csprojResolveAssemblyReference.cache
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form1.resources
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form2.resources
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form3.resources
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form4.resources
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form5.resources
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.Properties.Resources.resources
+D:\PUC\2º Semestre\Cintia\Jogo Completo\Jogo1\obj\Debug\Jogo1.csproj.GenerateResource.Cache
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\bin\Debug\Jogo1.exe.config
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.exe
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.pdb
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\bin\Debug\Jogo1.exe
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\bin\Debug\Jogo1.pdb
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form1.resources
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form2.resources
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form3.resources
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form4.resources
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form5.resources
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Properties.Resources.resources
+C:\Users\1067510\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.csproj.GenerateResource.Cache
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\bin\Debug\Jogo1.exe.config
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.exe
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.pdb
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\bin\Debug\Jogo1.exe
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\bin\Debug\Jogo1.pdb
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.csprojResolveAssemblyReference.cache
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form1.resources
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form2.resources
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form3.resources
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form4.resources
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form5.resources
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.Properties.Resources.resources
+C:\Users\1067510\Desktop\Cintia POO\Jogo Completo\Jogo1\obj\Debug\Jogo1.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\bin\Debug\Jogo1.exe.config
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\bin\Debug\Jogo1.exe
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\bin\Debug\Jogo1.pdb
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form1.resources
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form2.resources
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form3.resources
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form4.resources
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Form5.resources
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.Properties.Resources.resources
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.exe
+C:\Users\Thiago\Desktop\Jogo Completo\Jogo1\obj\Debug\Jogo1.pdb
